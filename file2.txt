@@ -1,2 +1,6 @@
 hello hello
+<<<<<<< HEAD
 added a different line
+=======
+added new line
+>>>>>>> navbar
