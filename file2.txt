@@ -1,2 +1,3 @@
 hello hello
 added a different line
+new line check merge
